@@ -3,8 +3,10 @@
 # About me
 No se olviden de guardar su trabajo!
 
-# Skills
+# Technologies
+Steph siempre salvandome la existencia
 
+# Skills
 Bonita
 Divertida
 Y todo
