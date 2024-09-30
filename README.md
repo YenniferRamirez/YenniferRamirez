@@ -10,3 +10,6 @@ Steph siempre salvandome la existencia
 Bonita
 Divertida
 Y todo
+
+## Languages
+- Ingles
