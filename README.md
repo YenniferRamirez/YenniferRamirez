@@ -2,3 +2,6 @@
 
 # About me
 No se olviden de guardar su trabajo!
+
+# Technologies
+Steph siempre salvandome la existencia
